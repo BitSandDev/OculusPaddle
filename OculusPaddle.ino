@@ -11,8 +11,8 @@
 #include <WiFiUdp.h>
 
 // WiFi credentials
-#define WIFI_SSID     "VM4660453"
-#define WIFI_PASSWORD "exncf76brMYk"
+#define WIFI_SSID     "Same AP that your Quest is Connected to"
+#define WIFI_PASSWORD "Wifi password here"
 
 // UDP and Telnet
 WiFiUDP udp;
